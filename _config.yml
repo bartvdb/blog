@@ -2,7 +2,7 @@ name: Bart Vandebeek
 description: Webdesign, Informatie Architect, Valkerij
 meta_description: "Bart Vandebeek - Webdesign, Informatie Architect, Valkerij"
 
-aboutPage: true
+aboutPage: false
 
 markdown: kramdown
 highlighter: rouge
