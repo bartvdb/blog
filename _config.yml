@@ -5,18 +5,18 @@ meta_description: "Your New Jekyll Site, Blogging about stuffs"
 aboutPage: true
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 
 gems: [jekyll-paginate]
 paginate: 20
-baseurl: /
-domain_name: 'http://yourblog-domain.com'
+baseurl: /blog/
+domain_name: 'http://bartvdb.github.io/'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
+url:            'http://bartvdb.github.io'
 author:         'Your Name'
 authorTwitter:  'YourTwitterUsername'
 
