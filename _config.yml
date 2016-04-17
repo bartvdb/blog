@@ -1,10 +1,10 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Bart Vandebeek
+description: Webdesign, Informatie Architect, Valkerij
+meta_description: "Bart Vandebeek - Webdesign, Informatie Architect, Valkerij"
 
 aboutPage: true
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 
 gems: [jekyll-paginate]
@@ -17,10 +17,10 @@ disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
 url:            'http://bartvdb.github.io'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+author:         'Bart Vandebeek'
+authorTwitter:  'bartvdb'
 
-permalink:       /:year/:title/
+permalink:       /:title/
 
 defaults:
     -
